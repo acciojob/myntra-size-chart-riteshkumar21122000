@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0px;
+	padding:0px;
+}
+thead{
+	background-color:red;
+	color:white;
+}
+tbody1{
+	background-color:pink;
+	color:black;
+}
